@@ -1,14 +1,13 @@
-# DM-HomeWork-HorseIllness
-@ccopyright yulidong
-
-DM homework for horse illness analysis
-python3 pandas matplotlib
 ---
 layout: page
 mathjax: true
 permalink: /2017/assignment_submit/
 ---
+# DM-HomeWork-HorseIllness
+@ccopyright yulidong
 
+DM homework for horse illness analysis
+python3 pandas matplotlib
 ## 作业提交截止时间
 
 ### 作业一
